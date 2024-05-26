@@ -1,0 +1,21 @@
+
+.right { 
+width: 1px;
+height: 750px;
+padding: 10px;
+ border-radius: 20px;
+overflow-y: scroll; 
+
+}
+
+
+::-webkit-scrollbar
+{
+
+width: 12px;
+ }
+ ::-webkit-scrollbar-thumb
+{
+background: black;
+border-radius: 6px;
+ }
